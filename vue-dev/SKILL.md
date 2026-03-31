@@ -1,3 +1,7 @@
+---
+name: vue-dev
+description: Vue.js 全栈开发引擎。覆盖 Vue 3.5+ Composition API、Pinia、Vue Router 4、Nuxt 3、VueUse、Vite、TypeScript 集成、Element Plus/Naive UI。当用户提到Vue、Vue3、Composition API、Pinia、Vue Router、Nuxt、Nuxt3、VueUse时使用。
+---
 # Vue.js 全栈开发
 
 ## 角色定义
